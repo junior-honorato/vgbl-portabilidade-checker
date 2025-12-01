@@ -71,11 +71,17 @@ Via Python (código fonte) pip install -r requirements.txt python main.py
 📂 Estrutura do Projeto
 
 vgbl-portabilidade-checker/
+
 ├── ajuste_portabilidade_saida.py
+
 ├── entradas/
+
 ├── saidas/
+
 ├── README.md
+
 └── .gitignore
+
 
 🤖 Uso de Inteligência Artificial
 - A IA generativa foi utilizada como copiloto técnico, auxiliando principalmente em: estruturação da lógica inicial, revisão de código e escrita de documentação.
